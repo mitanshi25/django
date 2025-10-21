@@ -16,5 +16,6 @@ class Student(models.Model):
 # hi i am feature 
 
 # demo 
+
 # Inside models.py
 print("This line is from the feature branch")
